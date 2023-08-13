@@ -1,2 +1,4 @@
 # Stock_Price_Prediction
-I excel in employing LSTM models through Jupyter Notebook for precise forecasting of Google's stock prices. By merging financial insights with data science acumen, I enhance informed investment strategies. With a track record of translating complex data into actionable recommendations, I facilitate sound decision-making within stock market investments.
+In this project developed a stock price prediction system for Google using Long Short-Term Memory (LSTM) models in Jupyter Notebook. The model captured intricate patterns and dependencies in stock price movements, demonstrating high accuracy. 
+The LSTM architecture effectively captured both short-term and long-term trends, enhancing predictive capabilities. The model underwent rigorous training, validation, and fine-tuning to ensure reliability and generalization. 
+The project showcases proficiency in data preprocessing, LSTM modeling, and data analysis in financial forecasting, showcasing the ability to combine advanced data science techniques with domain expertise to derive valuable insights and contribute to informed investment strategies.
